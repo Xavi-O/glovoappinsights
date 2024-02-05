@@ -1,210 +1,206 @@
 date,time,city,address,title,price,status
-2/4/2024,1800,NBO,Shell Hurlingham,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Shell Hurlingham,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Shell Hurlingham,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Shell Hurlingham,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Shell Hurlingham,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Shell Hurlingham,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Shell Hurlingham,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Ngong Road,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Ngong Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Ngong Road,KFC Krusher Missing,-,Not Available
-2/4/2024,1800,NBO,Ngong Road,Rice Bliss Missing,-,Not Available
-2/4/2024,1800,NBO,Ngong Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Ngong Road,Streetwise 5,KSh470.00,Available
-2/4/2024,1800,NBO,Ngong Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Langata Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Langata Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Langata Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Langata Road,KFC Krusher,KSh629.97,Available
-2/4/2024,1800,NBO,Langata Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Langata Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Langata Road,Streetwise 2,KSh650.00,Available
-2/4/2024,1800,NBO,Ndoto Road,Crunch Master Box,KSh690.00,Available
-2/4/2024,1800,NBO,Ndoto Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Ndoto Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Ndoto Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Ndoto Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Ndoto Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Ndoto Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Mombasa Road,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Mombasa Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Mombasa Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Mombasa Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Mombasa Road,KFC Krusher,KSh670.00,Available
-2/4/2024,1800,NBO,Mombasa Road,KFC Krusher,KSh470.00,Available
-2/4/2024,1800,NBO,Mombasa Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Woodvale Grove,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Woodvale Grove,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Woodvale Grove,KFC Krusher Missing,-,Not Available
-2/4/2024,1800,NBO,Woodvale Grove,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Woodvale Grove,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Woodvale Grove,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Woodvale Grove,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Mumias South Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Mumias South Road,Streetwise 3,KSh1750.00,Available
-2/4/2024,1800,NBO,Mumias South Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Mumias South Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Mumias South Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Mumias South Road,Rice Bliss Missing,-,Not Available
-2/4/2024,1800,NBO,Mumias South Road,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Waiyaki Way,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Waiyaki Way,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Waiyaki Way,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Waiyaki Way,Streetwise 5,KSh1750.00,Available
-2/4/2024,1800,NBO,Waiyaki Way,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Waiyaki Way,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Waiyaki Way,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Limuru Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Limuru Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Limuru Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Limuru Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Limuru Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Limuru Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Limuru Road,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Kasarani Mwiki Road,Double Crunch Burger Missing,-,Not Available
-2/4/2024,1800,NBO,Kasarani Mwiki Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Kasarani Mwiki Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Kasarani Mwiki Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Kasarani Mwiki Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Kasarani Mwiki Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Kasarani Mwiki Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Kiambu Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Kiambu Road,Streetwise 7,KSh690.00,Available
-2/4/2024,1800,NBO,Kiambu Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Kiambu Road,Streetwise 2,KSh1200.00,Available
-2/4/2024,1800,NBO,Kiambu Road,Streetwise 2,KSh670.00,Available
-2/4/2024,1800,NBO,Kiambu Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Kiambu Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Timboroa Street,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Timboroa Street,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Timboroa Street,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Timboroa Street,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Timboroa Street,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Timboroa Street,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Timboroa Street,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Kimathi Street,Crunch Burger,KSh450.00,Available
-2/4/2024,1800,NBO,Kimathi Street,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Kimathi Street,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Kimathi Street,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Kimathi Street,KFC Krusher Missing,-,Not Available
-2/4/2024,1800,NBO,Kimathi Street,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Kimathi Street,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Airport North Road,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Airport North Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Airport North Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Airport North Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Airport North Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Airport North Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Airport North Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Streetwise 2,KSh670.00,Available
-2/4/2024,1800,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Streetwise 5,KSh470.00,Available
-2/4/2024,1800,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Road to Utawala Academy,KFC Krusher,KSh629.97,Available
-2/4/2024,1800,NBO,Road to Utawala Academy,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Road to Utawala Academy,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Road to Utawala Academy,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Road to Utawala Academy,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Road to Utawala Academy,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Road to Utawala Academy,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Village Market, Nairobi, Kenya,Streetwise 2,KSh350.00,Available
-2/4/2024,1800,NBO,Village Market, Nairobi, Kenya,Streetwise 2,KSh650.00,Available
-2/4/2024,1800,NBO,Village Market, Nairobi, Kenya,Streetwise 3,KSh470.00,Available
-2/4/2024,1800,NBO,Village Market, Nairobi, Kenya,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Village Market, Nairobi, Kenya,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Village Market, Nairobi, Kenya,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Village Market, Nairobi, Kenya,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Mwanzi Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Mwanzi Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Mwanzi Road,Rice Bliss,KSh1200.00,Available
-2/4/2024,1800,NBO,Mwanzi Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Mwanzi Road,Streetwise 7,KSh470.00,Available
-2/4/2024,1800,NBO,Mwanzi Road,Streetwise 7,KSh650.00,Available
-2/4/2024,1800,NBO,Mwanzi Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Kenya Pipeline, Nairobi, Kenya,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NBO,Kenya Pipeline, Nairobi, Kenya,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NBO,Kenya Pipeline, Nairobi, Kenya,Rice Bliss,KSh1200.00,Available
-2/4/2024,1800,NBO,Kenya Pipeline, Nairobi, Kenya,KFC Krusher Missing,-,Not Available
-2/4/2024,1800,NBO,Kenya Pipeline, Nairobi, Kenya,Streetwise 3,KSh1750.00,Available
-2/4/2024,1800,NBO,Kenya Pipeline, Nairobi, Kenya,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NBO,Kenya Pipeline, Nairobi, Kenya,Streetwise 2,KSh670.00,Available
-2/4/2024,1800,NBO,Mama Ngina Street,Crunch Master Box,KSh690.00,Available
-2/4/2024,1800,NBO,Mama Ngina Street,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NBO,Mama Ngina Street,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NBO,Mama Ngina Street,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NBO,Mama Ngina Street,KFC Krusher,KSh629.97,Available
-2/4/2024,1800,NBO,Mama Ngina Street,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NBO,Mama Ngina Street,KFC Krusher,KSh470.00,Available
-2/4/2024,1800,MBS,Trade Centre,KFC Krusher,KSh670.00,Available
-2/4/2024,1800,MBS,Trade Centre,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,MBS,Trade Centre,Double Crunch Burger Missing,-,Not Available
-2/4/2024,1800,MBS,Trade Centre,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,MBS,Trade Centre,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,MBS,Trade Centre,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,MBS,Trade Centre,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,MBS,Nyali Road,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,MBS,Nyali Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,MBS,Nyali Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,MBS,Nyali Road,Streetwise 5,KSh670.00,Available
-2/4/2024,1800,MBS,Nyali Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,MBS,Nyali Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,MBS,Nyali Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NRK,Dagoretti Road,KFC Krusher,KSh670.00,Available
-2/4/2024,1800,NRK,Dagoretti Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NRK,Dagoretti Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NRK,Dagoretti Road,Rice Bliss,KSh470.00,Available
-2/4/2024,1800,NRK,Dagoretti Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NRK,Dagoretti Road,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NRK,Dagoretti Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NRK,Magadi Road,Double Crunch Burger Missing,-,Not Available
-2/4/2024,1800,NRK,Magadi Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NRK,Magadi Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NRK,Magadi Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NRK,Magadi Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NRK,Magadi Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NRK,Magadi Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NRK,Langata Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NRK,Langata Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NRK,Langata Road,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NRK,Langata Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NRK,Langata Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NRK,Langata Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,NRK,Langata Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NAK,West Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NAK,West Road,Streetwise 3,KSh1750.00,Available
-2/4/2024,1800,NAK,West Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NAK,West Road,KFC Krusher,KSh1200.00,Available
-2/4/2024,1800,NAK,West Road,KFC Krusher,KSh470.00,Available
-2/4/2024,1800,NAK,West Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,NAK,West Road,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NAK,West Road,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,NAK,West Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,NAK,West Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,NAK,West Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,NAK,West Road,Streetwise 2,KSh1750.00,Available
-2/4/2024,1800,NAK,West Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,NAK,West Road,KFC Krusher,KSh629.97,Available
-2/4/2024,1800,ELD,Rupa place,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,ELD,Rupa place,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,ELD,Rupa place,Rice Bliss,KSh670.00,Available
-2/4/2024,1800,ELD,Rupa place,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,ELD,Rupa place,KFC Krusher Missing,-,Not Available
-2/4/2024,1800,ELD,Rupa place,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,KSM,Gumbi Road,Streetwise 7,KSh1750.00,Available
-2/4/2024,1800,KSM,Gumbi Road,Streetwise 5,KSh1200.00,Available
-2/4/2024,1800,KSM,Gumbi Road,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,KSM,Gumbi Road,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,KSM,Gumbi Road,Rice Bliss,KSh629.97,Available
-2/4/2024,1800,KSM,Gumbi Road,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,KSM,Gumbi Road,Double Crunch Burger,KSh650.00,Available
-2/4/2024,1800,THK,Kenyatta Highway,Rice Bliss Missing,-,Not Available
-2/4/2024,1800,THK,Kenyatta Highway,Streetwise 3,KSh670.00,Available
-2/4/2024,1800,THK,Kenyatta Highway,Streetwise 2,KSh470.00,Available
-2/4/2024,1800,THK,Kenyatta Highway,Double Crunch Burger Missing,-,Not Available
-2/4/2024,1800,THK,Kenyatta Highway,KFC Krusher,KSh1750.00,Available
-2/4/2024,1800,THK,Kenyatta Highway,KFC Krusher,KSh350.00,Available
-2/4/2024,1800,THK,Kenyatta Highway,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Shell Hurlingham,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Shell Hurlingham,Streetwise 3,KSh629.97,Available
+2/5/2024,0900,NBO,Shell Hurlingham,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Shell Hurlingham,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Shell Hurlingham,Streetwise 2,KSh1750.00,Available
+2/5/2024,0900,NBO,Shell Hurlingham,Streetwise 5,KSh470.00,Available
+2/5/2024,0900,NBO,Shell Hurlingham,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Ngong Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Ngong Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Ngong Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Ngong Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Ngong Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Langata Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Langata Road,Streetwise 5,KSh470.00,Available
+2/5/2024,0900,NBO,Langata Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Langata Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Langata Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Langata Road,Double Crunch Burger,KSh1750.00,Available
+2/5/2024,0900,NBO,Langata Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Ndoto Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Ndoto Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Ndoto Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Ndoto Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Ndoto Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Ndoto Road,KFC Krusher,KSh670.00,Available
+2/5/2024,0900,NBO,Ndoto Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Mombasa Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Mombasa Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Mombasa Road,KFC Krusher,KSh1750.00,Available
+2/5/2024,0900,NBO,Mombasa Road,KFC Krusher,KSh470.00,Available
+2/5/2024,0900,NBO,Mombasa Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Mombasa Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Mombasa Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Woodvale Grove,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Woodvale Grove,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Woodvale Grove,Rice Bliss,KSh1200.00,Available
+2/5/2024,0900,NBO,Woodvale Grove,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Woodvale Grove,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Woodvale Grove,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Woodvale Grove,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Mumias South Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Mumias South Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Mumias South Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Mumias South Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Mumias South Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Mumias South Road,Streetwise 7,KSh629.97,Available
+2/5/2024,0900,NBO,Mumias South Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Waiyaki Way,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Waiyaki Way,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Waiyaki Way,Streetwise 3,KSh629.97,Available
+2/5/2024,0900,NBO,Waiyaki Way,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Waiyaki Way,Streetwise 3,KSh1200.00,Available
+2/5/2024,0900,NBO,Waiyaki Way,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Waiyaki Way,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Limuru Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Limuru Road,Streetwise 7,KSh650.00,Available
+2/5/2024,0900,NBO,Limuru Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Limuru Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Limuru Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Limuru Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Limuru Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Kasarani Mwiki Road,Double Crunch Burger Missing,-,Not Available
+2/5/2024,0900,NBO,Kasarani Mwiki Road,KFC Krusher,KSh470.00,Available
+2/5/2024,0900,NBO,Kasarani Mwiki Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Kasarani Mwiki Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Kasarani Mwiki Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Kasarani Mwiki Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Kasarani Mwiki Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Kiambu Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Kiambu Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Kiambu Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Kiambu Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Kiambu Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Kiambu Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Kiambu Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Timboroa Street,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Timboroa Street,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Timboroa Street,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Timboroa Street,Streetwise 5,KSh1750.00,Available
+2/5/2024,0900,NBO,Timboroa Street,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Timboroa Street,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Timboroa Street,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Kimathi Street,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Kimathi Street,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Kimathi Street,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Kimathi Street,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Kimathi Street,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Kimathi Street,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Kimathi Street,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Airport North Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Airport North Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Airport North Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Airport North Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Airport North Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Airport North Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Airport North Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Double Crunch Burger Missing,-,Not Available
+2/5/2024,0900,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Roysambu Thika Rd Garden City Mall Roysambu, Nairobi, Kenya,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Road to Utawala Academy,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Road to Utawala Academy,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Road to Utawala Academy,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Road to Utawala Academy,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Road to Utawala Academy,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Road to Utawala Academy,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Road to Utawala Academy,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Village Market, Nairobi, Kenya,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Village Market, Nairobi, Kenya,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Village Market, Nairobi, Kenya,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Village Market, Nairobi, Kenya,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Village Market, Nairobi, Kenya,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Village Market, Nairobi, Kenya,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Village Market, Nairobi, Kenya,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Mwanzi Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Mwanzi Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Mwanzi Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Mwanzi Road,Streetwise 7,KSh670.00,Available
+2/5/2024,0900,NBO,Mwanzi Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Mwanzi Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Mwanzi Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Kenya Pipeline, Nairobi, Kenya,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Kenya Pipeline, Nairobi, Kenya,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Kenya Pipeline, Nairobi, Kenya,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Kenya Pipeline, Nairobi, Kenya,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Kenya Pipeline, Nairobi, Kenya,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Kenya Pipeline, Nairobi, Kenya,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Kenya Pipeline, Nairobi, Kenya,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NBO,Mama Ngina Street,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NBO,Mama Ngina Street,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NBO,Mama Ngina Street,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NBO,Mama Ngina Street,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NBO,Mama Ngina Street,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NBO,Mama Ngina Street,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NBO,Mama Ngina Street,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,MBS,Trade Centre,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,MBS,Trade Centre,Streetwise 5,KSh629.97,Available
+2/5/2024,0900,MBS,Trade Centre,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,MBS,Trade Centre,Double Crunch Burger Missing,-,Not Available
+2/5/2024,0900,MBS,Trade Centre,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,MBS,Trade Centre,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,MBS,Trade Centre,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,MBS,Nyali Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,MBS,Nyali Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,MBS,Nyali Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,MBS,Nyali Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,MBS,Nyali Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,MBS,Nyali Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NRK,Dagoretti Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NRK,Dagoretti Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NRK,Dagoretti Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NRK,Dagoretti Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NRK,Dagoretti Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NRK,Dagoretti Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NRK,Dagoretti Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NRK,Magadi Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NRK,Magadi Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NRK,Magadi Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NRK,Magadi Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NRK,Magadi Road,Double Crunch Burger Missing,-,Not Available
+2/5/2024,0900,NRK,Magadi Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NRK,Magadi Road,Streetwise 2,KSh670.00,Available
+2/5/2024,0900,NRK,Langata Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NRK,Langata Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NRK,Langata Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,NRK,Langata Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NRK,Langata Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NRK,Langata Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NRK,Langata Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NAK,West Road,Double Crunch Burger,KSh629.97,Available
+2/5/2024,0900,NAK,West Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NAK,West Road,Double Crunch Burger,KSh470.00,Available
+2/5/2024,0900,NAK,West Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,NAK,West Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NAK,West Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,NAK,West Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,NAK,West Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,NAK,West Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,NAK,West Road,KFC Krusher,KSh1750.00,Available
+2/5/2024,0900,NAK,West Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,NAK,West Road,Rice Bliss,KSh1200.00,Available
+2/5/2024,0900,NAK,West Road,Rice Bliss,KSh470.00,Available
+2/5/2024,0900,ELD,Rupa place,KFC Krusher Missing,-,Not Available
+2/5/2024,0900,ELD,Rupa place,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,ELD,Rupa place,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,ELD,Rupa place,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,ELD,Rupa place,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,ELD,Rupa place,Streetwise 5,KSh670.00,Available
+2/5/2024,0900,KSM,Gumbi Road,Double Crunch Burger,KSh650.00,Available
+2/5/2024,0900,KSM,Gumbi Road,Streetwise 7,KSh1750.00,Available
+2/5/2024,0900,KSM,Gumbi Road,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,KSM,Gumbi Road,Rice Bliss,KSh629.97,Available
+2/5/2024,0900,KSM,Gumbi Road,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,KSM,Gumbi Road,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,KSM,Gumbi Road,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,THK,Kenyatta Highway,Double Crunch Burger Missing,-,Not Available
+2/5/2024,0900,THK,Kenyatta Highway,Streetwise 2,KSh470.00,Available
+2/5/2024,0900,THK,Kenyatta Highway,KFC Krusher,KSh350.00,Available
+2/5/2024,0900,THK,Kenyatta Highway,Streetwise 3,KSh670.00,Available
+2/5/2024,0900,THK,Kenyatta Highway,Streetwise 5,KSh1200.00,Available
+2/5/2024,0900,THK,Kenyatta Highway,Rice Bliss,KSh905.00,Available
+2/5/2024,0900,THK,Kenyatta Highway,Rice Bliss,KSh1750.00,Available
